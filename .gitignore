@@ -1,0 +1,5 @@
+*.py
+*.js
+*.zip
+!q1.py
+!q1.js
